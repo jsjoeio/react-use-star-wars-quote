@@ -1,6 +1,6 @@
 {
   "name": "@jsjoeio/react-use-star-wars-quote",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "a custom React Hook that gives you a Star Wars quote",
   "author": "jsjoeio",
   "license": "MIT",
